@@ -1,0 +1,22 @@
+{
+  "invalidCredentials": "Invalid credentials",
+  "emailAlreadyExists": "An account with this email already exists",
+  "userNotFound": "User not found",
+  "accountInactive": "Account is inactive",
+  "rateLimitExceeded": "Too many requests. Please try again later.",
+  "validationError": "Please check your input",
+  "networkError": "Network error. Please check your connection.",
+  "unknownError": "An unknown error occurred",
+  "sessionExpired": "Your session has expired. Please sign in again.",
+  "carNotFound": "Vehicle not found",
+  "maintenanceNotFound": "Maintenance record not found",
+  "vinAlreadyExistsInGarage": "A vehicle with this VIN already exists in your garage",
+  "invalidVinFormat": "Invalid VIN format",
+  "vinDecodeFailed": "Failed to decode VIN. Please check the number and try again.",
+  "accessDenied": "You do not have permission to perform this action",
+  "notFound": "Resource not found",
+  "conflict": "A conflict occurred with your request",
+  "missingParameter": "A required parameter is missing",
+  "malformedJson": "The request data is invalid",
+  "internalServerError": "An internal error occurred. Please try again later."
+}

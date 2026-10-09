@@ -1,0 +1,80 @@
+{
+  "@@info": [
+    "Here are translations that exist in secondary locales but not in <en>.",
+    "[--full enabled] Furthermore, translations not used in 'lib/' according to the 't.<path>' pattern are written into <en>."
+  ],
+  "en": {
+    "auth": {
+      "login": "Login",
+      "register": "Register"
+    },
+    "catalog": {
+      "searchMakes": "Search makes...",
+      "searchModels": "Search models...",
+      "selectMake": "Select a make",
+      "selectModel": "Select a model",
+      "selectYear": "Select a year"
+    },
+    "common": {
+      "appTitle": "Autivo",
+      "loading": "Loading...",
+      "retry": "Retry",
+      "close": "Close",
+      "confirm": "Confirm",
+      "done": "Done",
+      "search": "Search",
+      "filter": "Filter",
+      "sort": "Sort",
+      "all": "All",
+      "update": "Update",
+      "create": "Create",
+      "status": "Status",
+      "active": "Active",
+      "maintenance": "Maintenance Due",
+      "inactive": "Inactive",
+      "category": "Category",
+      "engine": "Engine",
+      "color": "Color",
+      "colorName": "Color Name"
+    },
+    "garage": {
+      "scanVin": "Scan VIN",
+      "manualEntry": "Manual Entry",
+      "healthScore": "Health Score",
+      "excellent": "Excellent",
+      "good": "Good",
+      "fair": "Fair",
+      "poor": "Poor",
+      "inMaintenance": "In maintenance"
+    },
+    "parts": {
+      "original": "Original",
+      "replaced": "Replaced",
+      "serviced": "Serviced",
+      "worn": "Worn",
+      "damaged": "Damaged",
+      "replacedAt": "Replaced At",
+      "mileageAtReplacement": "Mileage at Replacement"
+    },
+    "profile": {
+      "avatar": "Avatar",
+      "removeAvatar": "Remove Avatar",
+      "selectImage": "Select Image",
+      "camera": "Camera",
+      "gallery": "Gallery",
+      "changeEmailTitle": "Change Email Address",
+      "changePasswordTitle": "Change Password",
+      "darkMode": "Dark Mode",
+      "lightMode": "Light Mode",
+      "themeNightOwl": "Night Owl",
+      "version": "Version",
+      "buildNumber": "Build",
+      "privacyPolicy": "Privacy Policy",
+      "termsOfService": "Terms of Service",
+      "contactSupport": "Contact Support",
+      "appDescription": "Smart vehicle management and maintenance tracking"
+    }
+  },
+  "ar": {},
+  "fr": {}
+}

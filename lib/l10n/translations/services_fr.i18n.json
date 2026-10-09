@@ -1,0 +1,18 @@
+{
+  "services": "Services",
+  "maintenanceRecords": "Historique d'entretien",
+  "addMaintenance": "Ajouter un entretien",
+  "maintenanceType": "Type",
+  "nextServiceMileage": "Prochain service (km)",
+  "nextServiceDue": "Prochain service dû",
+  "nextServiceKm": "Prochain service (km)",
+  "schedule": "Planification",
+  "partsReplaced": "Pièces remplacées",
+  "allPartsAdded": "Toutes les pièces sont ajoutées",
+  "addPartsReplaced": "Ajouter des pièces remplacées",
+  "recordNotFound": "Enregistrement introuvable",
+  "overdue": "En retard",
+  "allCaughtUp": "Tout est à jour !",
+  "noUpcomingMaintenance": "Aucun entretien à venir pour ce véhicule.",
+  "kmLeft": "km restants"
+}

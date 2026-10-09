@@ -1,0 +1,18 @@
+{
+  "services": "الخدمات",
+  "maintenanceRecords": "سجلات الصيانة",
+  "addMaintenance": "إضافة صيانة",
+  "maintenanceType": "النوع",
+  "nextServiceMileage": "الكيلومترات للخدمة القادمة",
+  "nextServiceDue": "الخدمة القادمة مستحقة",
+  "nextServiceKm": "الخدمة القادمة (كم)",
+  "schedule": "الجدولة",
+  "partsReplaced": "القطع المستبدلة",
+  "allPartsAdded": "تمت إضافة جميع القطع",
+  "addPartsReplaced": "إضافة قطع مستبدلة",
+  "recordNotFound": "السجل غير موجود",
+  "overdue": "متأخر",
+  "allCaughtUp": "كل شيء على ما يرام!",
+  "noUpcomingMaintenance": "لا توجد صيانة قادمة مجدولة لهذه السيارة.",
+  "kmLeft": "كم متبقٍ"
+}

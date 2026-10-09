@@ -1,0 +1,73 @@
+// GENERATED CODE - DO NOT MODIFY BY HAND
+
+part of 'api_response.dart';
+
+// **************************************************************************
+// JsonSerializableGenerator
+// **************************************************************************
+
+ApiResponse<T> _$ApiResponseFromJson<T>(
+  Map<String, dynamic> json,
+  T Function(Object? json) fromJsonT,
+) => ApiResponse<T>(
+  success: json['success'] as bool,
+  data: _$nullableGenericFromJson(json['data'], fromJsonT),
+  error: json['error'] == null
+      ? null
+      : ApiError.fromJson(json['error'] as Map<String, dynamic>),
+);
+
+Map<String, dynamic> _$ApiResponseToJson<T>(
+  ApiResponse<T> instance,
+  Object? Function(T value) toJsonT,
+) => <String, dynamic>{
+  'success': instance.success,
+  'data': _$nullableGenericToJson(instance.data, toJsonT),
+  'error': instance.error,
+};
+
+T? _$nullableGenericFromJson<T>(
+  Object? input,
+  T Function(Object? json) fromJson,
+) => input == null ? null : fromJson(input);
+
+Object? _$nullableGenericToJson<T>(
+  T? input,
+  Object? Function(T value) toJson,
+) => input == null ? null : toJson(input);
+
+ApiError _$ApiErrorFromJson(Map<String, dynamic> json) => ApiError(
+  code: json['code'] as String,
+  message: json['message'] as String,
+  details: (json['details'] as List<dynamic>?)
+      ?.map((e) => FieldIssue.fromJson(e as Map<String, dynamic>))
+      .toList(),
+);
+
+Map<String, dynamic> _$ApiErrorToJson(ApiError instance) => <String, dynamic>{
+  'code': instance.code,
+  'message': instance.message,
+  'details': instance.details,
+};
+
+FieldIssue _$FieldIssueFromJson(Map<String, dynamic> json) => FieldIssue(
+  field: json['field'] as String,
+  message: json['message'] as String,
+);
+
+Map<String, dynamic> _$FieldIssueToJson(FieldIssue instance) =>
+    <String, dynamic>{'field': instance.field, 'message': instance.message};
+
+HealthResponse _$HealthResponseFromJson(Map<String, dynamic> json) =>
+    HealthResponse(
+      status: json['status'] as String,
+      service: json['service'] as String,
+      timestamp: DateTime.parse(json['timestamp'] as String),
+    );
+
+Map<String, dynamic> _$HealthResponseToJson(HealthResponse instance) =>
+    <String, dynamic>{
+      'status': instance.status,
+      'service': instance.service,
+      'timestamp': instance.timestamp.toIso8601String(),
+    };

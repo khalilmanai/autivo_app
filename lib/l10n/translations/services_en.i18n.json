@@ -1,0 +1,18 @@
+{
+  "services": "Services",
+  "maintenanceRecords": "Maintenance Records",
+  "addMaintenance": "Add Maintenance",
+  "maintenanceType": "Type",
+  "nextServiceMileage": "Next Service Mileage",
+  "nextServiceDue": "Next Service Due",
+  "nextServiceKm": "Next Service (km)",
+  "schedule": "Schedule",
+  "partsReplaced": "Parts Replaced",
+  "allPartsAdded": "All parts added",
+  "addPartsReplaced": "Add parts replaced",
+  "recordNotFound": "Record not found",
+  "overdue": "Overdue",
+  "allCaughtUp": "All caught up!",
+  "noUpcomingMaintenance": "No upcoming maintenance scheduled for this vehicle.",
+  "kmLeft": "km left"
+}

@@ -1,0 +1,7 @@
+base_locale: en
+input_directory: lib/l10n/translations
+input_file_pattern: .i18n.json
+output_directory: lib/l10n/translations
+output_file_name: strings.g.dart
+flutter: true
+namespaces: true

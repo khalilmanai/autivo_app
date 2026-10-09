@@ -1,0 +1,22 @@
+{
+  "invalidCredentials": "بيانات اعتماد غير صالحة",
+  "emailAlreadyExists": "يوجد حساب بهذا البريد الإلكتروني بالفعل",
+  "userNotFound": "المستخدم غير موجود",
+  "accountInactive": "الحساب غير نشط",
+  "rateLimitExceeded": "عدد كبير من الطلبات. يرجى المحاولة لاحقاً.",
+  "validationError": "يرجى التحقق من إدخالك",
+  "networkError": "خطأ في الشبكة. تحقق من اتصالك.",
+  "unknownError": "حدث خطأ غير معروف",
+  "sessionExpired": "انتهت صلاحية جلستك. يرجى تسجيل الدخول مرة أخرى.",
+  "carNotFound": "المركبة غير موجودة",
+  "maintenanceNotFound": "سجل الصيانة غير موجود",
+  "vinAlreadyExistsInGarage": "توجد مركبة بهذا الرقم في مرآبك بالفعل",
+  "invalidVinFormat": "تنسيق رقم الشاصي غير صالح",
+  "vinDecodeFailed": "فشل في فك تشفير رقم الشاصي. يرجى التحقق من الرقم والمحاولة مرة أخرى.",
+  "accessDenied": "ليس لديك صلاحية لتنفيذ هذا الإجراء",
+  "notFound": "المورد غير موجود",
+  "conflict": "حدث تعارض مع طلبك",
+  "missingParameter": "مطلوب مغلق مفقود",
+  "malformedJson": "بيانات الطلب غير صالحة",
+  "internalServerError": "حدث خطأ داخلي. يرجى المحاولة لاحقاً."
+}

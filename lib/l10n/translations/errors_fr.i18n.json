@@ -1,0 +1,22 @@
+{
+  "invalidCredentials": "Identifiants invalides",
+  "emailAlreadyExists": "Un compte avec cet email existe déjà",
+  "userNotFound": "Utilisateur non trouvé",
+  "accountInactive": "Compte inactif",
+  "rateLimitExceeded": "Trop de requêtes. Veuillez réessayer plus tard.",
+  "validationError": "Veuillez vérifier votre saisie",
+  "networkError": "Erreur réseau. Vérifiez votre connexion.",
+  "unknownError": "Une erreur inconnue s'est produite",
+  "sessionExpired": "Votre session a expiré. Veuillez vous reconnecter.",
+  "carNotFound": "Véhicule non trouvé",
+  "maintenanceNotFound": "Enregistrement d'entretien non trouvé",
+  "vinAlreadyExistsInGarage": "Un véhicule avec ce VIN existe déjà dans votre garage",
+  "invalidVinFormat": "Format de VIN invalide",
+  "vinDecodeFailed": "Échec du décodage du VIN. Veuillez vérifier le numéro et réessayer.",
+  "accessDenied": "Vous n'avez pas la permission d'effectuer cette action",
+  "notFound": "Ressource non trouvée",
+  "conflict": "Un conflit s'est produit avec votre requête",
+  "missingParameter": "Un paramètre requis est manquant",
+  "malformedJson": "Les données de la requête sont invalides",
+  "internalServerError": "Une erreur interne s'est produite. Veuillez réessayer plus tard."
+}
